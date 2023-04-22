@@ -10,3 +10,5 @@ const func2 = () => {
 };
 
 const commit = console.log(commit);
+
+// add -u
