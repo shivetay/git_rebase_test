@@ -5,3 +5,8 @@ const math = (val) => {
 
   return val;
 };
+const func2 = () => {
+  test;
+};
+
+const commit = console.log(commit);
